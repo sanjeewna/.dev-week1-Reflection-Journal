@@ -44,9 +44,9 @@ Online Resources:
 
 After searching so many youtube videos on browser I found videos that helps me to perform my work in a well manner. For example the below links gives me complete information about Node JS and Git and GitHub. 
 
-1) https://www.youtube.com/watch?v=zaLfOjNEOaQ&list=PL8p2I9GklV456iofeMKReMTvWLr7Ki9At&ab_channel=CodeStepByStep ###
+1) https://www.youtube.com/watch?v=zaLfOjNEOaQ&list=PL8p2I9GklV456iofeMKReMTvWLr7Ki9At&ab_channel=CodeStepByStep
 
-2) https://www.youtube.com/watch?v=gwWKnnCMQ5c&ab_channel=CodeWithHarry ###
+2) https://www.youtube.com/watch?v=gwWKnnCMQ5c&ab_channel=CodeWithHarry
 
 # Coping Strategies: #
 
